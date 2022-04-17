@@ -1,0 +1,111 @@
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/gbg.JPG");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.title-upper {
+    text-align: center;
+    font-size: 5rem;
+
+}
+
+
+body {
+    background-color: #555;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.common {
+    background-color: rgba(223, 158, 93, 0.2);
+    border: solid 4px #100a01;
+    position: absolute;
+
+}
+
+.navigation {
+    top: 5px;
+    left: 125px;
+    right: 5px;
+    height: 177px;
+}
+
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 175px;
+    bottom: 64px;
+}
+
+.tableau {
+    top: 200px;
+    left: 125px;
+    right: 5px;
+    height: 275rem;
+}
+
+.rightmenu {
+    top: 114px;
+    width: 175px;
+    right: 5px;
+    bottom: 64px;
+}
+
+.footer {
+    left: 125px;
+    right: 5px;
+    bottom: -252rem;
+    height: 125px;
+}
+
+.center{
+    text-align: center;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    color: rgb(223, 153, 55);
+    font-weight: 800;
+}
+
+.navbar-nav2 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+  }
+
+  .mx-1 {
+    margin-right: 5rem !important;
+    margin-left: 1rem !important;
+    margin-top: 1px;
+  }
+
+  .mx-2 {
+    margin-right: 5rem !important;
+    margin-left: 1rem !important;
+    margin-top: .25rem;
+  }
+
+  .mx-3 {
+    margin-right: 5rem !important;
+    margin-left: 1rem !important;
+    margin-top: .25rem;
+  }
+
+  .mx-4 {
+    margin-right: 5rem !important;
+    margin-left: 1rem !important;
+    margin-top: .25rem;
+  }
+
+  .tab-font {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #e6a756;
+      font-size: 2rem;
+  }

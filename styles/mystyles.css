@@ -1,0 +1,176 @@
+body {
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/gbg.JPG");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.heading-flist {
+    list-style-type: upper-roman;
+    text-align: left;
+    font-size: 2.25rem;
+    font-weight: 500;
+  }
+
+  .heading {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+  .heading .heading-up {
+    display: block;
+    font-size: 3rem;
+    font-weight: 800;
+  }
+  .heading .heading-low {
+    font-size: 5rem;
+    font-weight: 100;
+    line-height: 4rem;
+  }
+  
+
+
+.realgreen {
+    text-decoration-color: greenyellow;
+
+}
+
+
+
+.underline {
+  text-decoration: underline;
+}
+
+.list-left {
+  text-align: left;
+}
+.list-font {
+  font-style: italic;
+  font-weight: 650;
+}
+
+.section-headingG {
+  font-family:monospace ;
+  font-size: 4rem;
+  font-weight: 100;
+  
+}
+.section-headingG2 {
+ 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+  font-weight: 525;
+}
+
+
+
+.section-heading-quote {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 700; 
+}
+.section-heading .section-heading-tiny {
+  display: block;
+  font-size: .75rem;
+  font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+.site-headingG {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+  line-height: 1;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.site-headingG .site-heading-upperG {
+  display: block;
+  font-size: 3rem;
+  font-weight: 800;
+}
+.site-headingG .site-heading-lowerG {
+  font-size: 5rem;
+  font-weight: 100;
+  line-height: 4rem;
+}
+
+.text-centerG {
+  text-align: center !important;
+}
+
+.text-fadedG {
+  color: #f6e1c5;
+}
+
+.d-noneG {
+  display: none !important;
+}
+
+.d-lg-blockG {
+  display: block !important;
+}
+
+.anchor {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-prime {
+  color: rgb(6, 158, 29);
+}
+
+.text-style {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 2.75rem;
+
+}
+
+.text-style2 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 200;
+  font-size: 5rem;
+
+}
+
+.text-style3 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 200;
+  font-size: .75rem;
+  color: #e6a756;
+}
+
+.text-style4 {
+  font-family: 'Arial Narrow Bold', sans-serif;
+  font-weight: 200;
+  font-size: 1rem;
+
+}
+
+.text-style5 {
+  font-weight: 500;
+  font-size: 1.25rem;
+
+}
+
+a {
+  color: 
+  
+  
+  rgb(1, 84, 3);
+}
+
+div.center {
+  text-align: center;
+}
